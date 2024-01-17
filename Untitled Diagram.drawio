@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-17T02:27:55.210Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="2RHfFyR2HokwWjwb4tah" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-17T02:28:53.992Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="NvvKPWuycIKwF2VCyIw-" version="22.1.18" type="github">
   <diagram name="Page-1" id="ZD00cTLUzi691DpJYVTJ">
     <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="soDfp3RJkLPu1pMC7LP1-56" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="soDfp3RJkLPu1pMC7LP1-55" source="soDfp3RJkLPu1pMC7LP1-57" target="soDfp3RJkLPu1pMC7LP1-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="soDfp3RJkLPu1pMC7LP1-57" value="Parent" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="soDfp3RJkLPu1pMC7LP1-55">
+        <mxCell id="soDfp3RJkLPu1pMC7LP1-57" value="Board of Directors" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="soDfp3RJkLPu1pMC7LP1-55">
           <mxGeometry x="140" y="60" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="soDfp3RJkLPu1pMC7LP1-58" value="Legal" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="soDfp3RJkLPu1pMC7LP1-55">
